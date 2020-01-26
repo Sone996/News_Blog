@@ -1,0 +1,64 @@
+ body{
+                background-image: url("../images/create_bg.jpg");
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: inherit;
+                background-attachment: fixed;
+            }
+            div{
+                border: 2px solid black;
+                border-radius: 25px;
+                width: 30%;;
+                height: auto;
+                margin-top: 30px;
+                margin-right: 35%;
+                margin-left: 35%;
+                padding-top: 20px;
+                padding-bottom: 20px;
+            }
+            h1{
+                text-align: center;
+            }
+            table{
+                width: 100%;
+            }
+            tr{
+                height: 3em;
+            }
+            td{
+                text-align: center;
+            }
+            .L{
+                width: 30%;
+            }
+            .R{
+                width: 68%;
+            }
+            input{
+                height: 20px;
+                background-color: #DFE2DB;
+                width: 95%;
+                border: none;
+                border-bottom: 1px solid black;
+                border-radius: 25px;
+            }
+            #dugme{
+                height: 50px;
+                width: 40%;
+                border: 2px solid black;
+                border-radius: 25px;
+                background-color: #006600;
+                margin-left: 30%;
+                margin-top: 30px;
+                color: white;
+                font-size: larger;
+            }
+            #dugme:hover{
+                background-color: #00ff00;
+                color: black;
+            }
+            .fieldset{
+                color: white;
+                height: 1.3em;
+                align-content: center;
+            }
